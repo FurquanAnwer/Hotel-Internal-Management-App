@@ -41,7 +41,7 @@ function TodayItem({ activity }) {
         <Button
           size="small"
           variation="primary"
-          as={Link}
+          as={Link}TodayItem
           to={`/checkin/${id}`}
         >
           Check in
